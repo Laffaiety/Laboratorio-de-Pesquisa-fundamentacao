@@ -1,2 +1,2 @@
-# Laborat-rio-de-Pesquisa-fundamenta-o-
+# Laboratório de Pesquisa fundamentação
 T1 - primeiro ciclo iterativo
