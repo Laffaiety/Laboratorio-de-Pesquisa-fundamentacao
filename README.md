@@ -58,4 +58,6 @@ A codificação do game é feita por blocos de programação
 ![Logica porta](https://github.com/Laffaiety/Laboratorio-de-Pesquisa-fundamentacao/blob/main/logica_Door.png)
 Como a lógica para abrir a porta será feita através de puzzles, ela ainda não está funcionando.
 ## Testes. 
-O vídeo a seguir mostra o teste do jogo no seu estado atual:
+### O vídeo a seguir mostra o teste do jogo no seu estado atual:
+[![Vídeo de teste_0.1](http://img.youtube.com/vi/Abz5yXMKEn4/0.jpg)](http://www.youtube.com/watch?v=Abz5yXMKEn4 "Vídeo de teste_0.1")
+
