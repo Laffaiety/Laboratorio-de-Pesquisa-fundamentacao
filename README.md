@@ -1,4 +1,4 @@
-# Laboratorio de Pesquisa fundamentacao
+# Laboratório de Pesquisa fundamentação
 T1 - primeiro ciclo iterativo
 Neste presente documento será apresentado o relatório do primeiro ciclo iterativo do desenvolvimento ágil de um software de jogo educacional.
 onde nele terá:
