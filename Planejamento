@@ -1,19 +1,19 @@
 # Laboratório de Pesquisa fundamentação
 T1 - primeiro ciclo iterativo
-A idieia inicial para esse trabalho é criar um jogo que tem como objetivo além de ensinar o alfabeto no estagio de português e a calcular no estagio de matemática, 
+A ideia inicial para esse trabalho é criar um jogo que tem como objetivo além de ensinar o alfabeto no estágio de português e a calcular no estágio de matemática, 
 motivar o estímulo cognitivo dos jogadores. 
 Em português esse estímulo é feito através da formação de palavras, onde em algumas fases o jogador terá que montar o alfabeto e escrever o nome da figura que ele estará vendo.
 Em matemática na resolução de cálculos de soma e subtração.
 O jogo será feito na plataforma da Unreal Engine 4.
 
 Objetivo:
-O objetivo do jogo é abrir as portas que bloqueiam a passagem do personagem principal para a próxima fase. Cada estagio terá 5 fase, para cada fase concluída o jogador é recompensado com moedas.
+O objetivo do jogo é abrir as portas que bloqueiam a passagem do personagem principal para a próxima fase. Cada estágio terá 5 fases, para cada fase concluída o jogador é recompensado com moedas.
 As moedas vão variar a quantidade de acordo com o tempo gasto para completar cada fase. 
 As moedas podem ser gastas para liberar novos personagens.
 
 Desafios:
 
-Os estagios foram divididos em duas matérias português e matemática;
+Os estágios foram divididos em duas matérias português e matemática;
 1 - Português:
 Em português o jogador deve acertar as ordens das letras do alfabeto ou escrever o nome do desenho que será mostrado em um painel no jogo para liberar a passagem para a próxima fase. 
 As variações desse estagio foram divididos em 5 fases.
