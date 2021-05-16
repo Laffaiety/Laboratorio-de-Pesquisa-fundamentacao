@@ -1,1 +1,6 @@
 
+A codificação atual só foi aplicada nos botões do menu inicial.
+Clicando em (Iniciar Jogo) a fase do jogo será carregada e o jogo começa.
+Clicando em (Sobre o Jogo) será mostrado para o usuário algumas informações do jogo.
+Clicando em (Sair) o Jogo fechará.
+A porta tem uma lógica mas ainda falta outro bloco de codificação que fará com que ela abra de acordo com o puzzle.
